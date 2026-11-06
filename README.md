@@ -1,5 +1,3 @@
-
-
 # RainVision AI 🌧️
 
 ### AI-Based Rainfall Prediction Using Deep Learning (LSTM)
